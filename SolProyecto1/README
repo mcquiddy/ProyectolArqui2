@@ -1,0 +1,11 @@
+Tecnologico de Costa Rica
+Arquitectura de Computadores II
+Cristian Castillo Mcquiddy
+
+Ejecutar los comandos:
+ 
+$ make
+$ ./bin/msi_cache
+
+Cuando se le muestre la opción de "Aprete cualquier tecla para continuar", al presionar cualquier tecla se le mostrará 5 ventanas (4 son para visualizar las acciones de los procesadores) y la principal donde ejecutó el programa mostrará la estructura e información de las memorias principal y caché de cada procesador.
+	
